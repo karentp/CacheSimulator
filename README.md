@@ -1,7 +1,7 @@
 # CacheSimulator
 Cache Replace Policy Simulator
 
-# Instrucciones para correr el programa}
+# Instrucciones para correr el programa
 
 ## Pasos a seguir:
 
@@ -32,7 +32,7 @@ en cada set. Valores validos son: 1, 2, 4, 8, 16
 5. -t Indica el trace específico que quiere utilizarse para correr los resultados. El default es 465.tonto-1769B.trace.txt.gz
 
 
-## Parámetros mínimos que necesitan el simulador:}
+## Parámetros mínimos que necesitan el simulador:
 
 Para correr adecuadamente el simulador se necesitan como mínimo setear los siguientes parámetros:
 
