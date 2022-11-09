@@ -9,13 +9,13 @@ Para correr el programa se deben seguir los siguientes pasos:
 
 
  1. Abra una consola de comandos en el directorio con los archivos
- 2. Asegúrese que en el directorio se encuentra el directorio \textbf{traces} con los 27 archivos ".txt.gz" correspondiente a los diferentes traces. Es decir debe renombrar el folder que contiene los traces para que se llame \textbf{traces} No descomprina ninguno debe trabajar con el.gz
- 3. \textbf{Corra: python cache\_simulator.py  -s X -a X -b X -r X}
+ 2. Asegúrese que en el directorio se encuentra el directorio **traces** con los 27 archivos ".txt.gz" correspondiente a los diferentes traces. Es decir debe **renombrar el folder que contiene los traces para que se llame traces**. No descomprina ninguno de los traces interiores, debe trabajar con el.gz en cada uno.
+ 3. **Corra: python cache\_simulator.py  -s X -a X -b X -r X}**
  4. Debe sustituir X por un número según correspondan los parámetros
 
 
 
-##Parámetros para correr el programa}
+## Parámetros para correr el programa 
 
 
 1. -s Corresponde a la capacidad total
